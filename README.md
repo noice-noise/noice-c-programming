@@ -1,2 +1,2 @@
-# noice-c-programming
- A collection of old C programming struggles.
+# Noice C
+ A collection of my ancient and current C programming struggles for reference, review, and practice. 
